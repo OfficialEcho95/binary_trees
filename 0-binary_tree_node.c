@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 #include <stdio.h>
 /**
- * binary_tree_node - function to create node
+ * binary_tree_node - function to create a node
  *@parent: pointer to root node
  *@value: value at position
  * Return:Your function must return a pointer to the new node or NULL if no.
