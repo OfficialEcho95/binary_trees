@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "binary_trees.h"
-#include "9-binary_tree_height.c"
+//#include "9-binary_tree_height.c"
 /**
  * binary_tree_is_perfect - function to check if tree is perfect
  * @tree: a pointer to the root of tree
